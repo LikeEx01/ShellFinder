@@ -1,0 +1,73 @@
+-rw-r--r--
+<u><b>Yanz Webshell!</b>
+<title>MSQ_403</title>
+<title>RID-BCAKDOR</title>
+insertion
+<title>#CLS-LEAK#</title>
+<h1>[ Shin Bypassed ]</h1>
+Tiny File Manager
+<title>~ ALFA TEaM Shell-v</title>
+name="uploader" id="uploader">
+Upload File : <input
+>public_html
+Ova-Tools
+<title>Management System</title>
+SEA-GHOST MINSHELL
+Webshell
+Uploader ready!
+<title>Shell Finder</title>
+<title>R57 Shell</title>
+<title>C99Shell</title>
+<h1>Access Denied</h1>
+<title>Hacked By
+Priv8 Uploader
+B374K Shell
+<title>Shell-X</title>
+<title>Rootkit Shell</title>
+<title>IndoXploit Shell</title>
+<title>404Shell</title>
+<title>Admin Panel</title>
+Execute Command
+<h1>Shell Found</h1>
+<title>Rooted</title>
+<h1>System Compromise</h1>
+<title>Exploit Found</title>
+<h1>Server Access</h1>
+<title>Control Panel</title>
+<h1>404 Bypassed</h1>
+<title>Shell Uploaded</title>
+<h1>Command Executed</h1>
+Upload your files
+<title>Server Shell</title>
+<title>H4z4rd Shell</title>
+<title>Zone-H</title>
+<title>Anon Shell</title>
+<title>SQL Shell</title>
+<title>PhpMyAdmin Shell</title>
+Backdoor Detected
+Access Granted
+<title>File Upload</title>
+<h1>Web Shell Active</h1>
+<title>Upload Shell</title>
+<title>PHP Backdoor</title>
+<h1>Shell Access</h1>
+Enter Command:
+Malware Detected
+<title>Dangerous File</title>
+<h1>Hack Detected</h1>
+<h1>Unauthorized Access</h1>
+File Upload Success
+<title>Injection Detected</title>
+<title>Vulnerability Found</title>
+<h1>Server Compromise</h1>
+Shell Manager
+Command Line Interface
+Privilege Escalation
+Remote Shell
+File Upload Successful
+Shell Finder Detected
+Root Shell Access
+Directory Listing Enabled
+Web Exploit Found
+<title>Exploit Tool</title>
+<title>Hack Tool</title>
