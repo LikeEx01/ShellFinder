@@ -56,9 +56,9 @@ pip install requests colorama
 pkg update -y
 pkg install git python -y
 pip install requests colorama
-git clone <repo-anda-atau-salin-kode>
-cd <folder-tool>
-python3 webshell_scanner.py
+git clone https://github.com/LikeEx01/ShellFinder.git
+cd ShellFinder 
+python3 ShellFinder.py
 ```
 
 ### Windows (CMD / PowerShell)
@@ -68,9 +68,9 @@ python3 webshell_scanner.py
 
 ```bash
 pip install requests colorama
-git clone <repo-anda-atau-salin-kode>
-cd <folder-tool>
-python webshell_scanner.py
+git clone https://github.com/LikeEx01/ShellFinder.git
+cd ShellFinder
+python ShellFinder.py
 ```
 
 ### Linux / Ubuntu / Debian
@@ -78,9 +78,9 @@ python webshell_scanner.py
 ```bash
 sudo apt update && sudo apt install git python3 python3-pip -y
 pip3 install requests colorama
-git clone <repo-anda-atau-salin-kode>
-cd <folder-tool>
-python3 webshell_scanner.py
+git clone https://github.com/LikeEx01/ShellFinder.git
+cd ShellFinder
+python3 ShellFinder.py
 ```
 
 ---
@@ -109,7 +109,7 @@ python3 webshell_scanner.py
 2. Jalankan script:
 
 ```bash
-python3 webshell_scanner.py
+python3 ShellFinder.py
 ```
 
 3. Saat diminta, masukkan nilai:
