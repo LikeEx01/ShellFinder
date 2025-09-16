@@ -1,9 +1,16 @@
 # WebshellFinder V3 - 
 
-![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
-![License](https://img.shields.io/badge/license-MIT-blue)
-![Python](https://img.shields.io/badge/python-3.x-blue.svg)
-![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux%20%7C%20macOS%20%7C%20Termux-lightgrey)
+<p align="center">
+  <img src="https://img.shields.io/badge/build-passing-brightgreen" />
+  <img src="https://img.shields.io/badge/license-MIT-blue" />
+  <img src="https://img.shields.io/badge/python-3.x-blue.svg" />
+  <img src="https://img.shields.io/badge/platform-Windows%20%7C%20Linux%20%7C%20macOS%20%7C%20Termux-lightgrey" />
+  <br/>
+  <img src="https://img.shields.io/badge/contributions-welcome-orange" />
+  <img src="https://img.shields.io/badge/issues-0%20open-blue" />
+  <img src="https://img.shields.io/badge/security-checked-success" />
+  <img src="https://img.shields.io/maintenance/yes/2025" />
+</p>
 
 ---
 
